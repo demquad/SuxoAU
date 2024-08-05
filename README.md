@@ -18,21 +18,21 @@ meanwhile you can disassemble it or whathever
 - No kill cooldown
   
 **Players:**
-  - **See roles and who is host**
-  - **See their tasks if completed or not**
-  - **Kick/Ban (host)**
-  - **Set Names (Host)**
-  - **Shapeshift (role)**
-  - **Goto**
-  - **Murder Player (if you are host it justs changes the role to ghost)**
+  - See roles and who is host
+  - See their tasks if completed or not
+  - Kick/Ban (host)
+  - Set Names (Host)
+  - Shapeshift (role)
+  - Goto
+  - Murder Player (if you are host it justs changes the role to ghost)
     
 **Game:**
-  - **Complete all tasks**
-  - **Murder all**
-  - **Close meeting (Host)**
-  - **End game (host (unstable))**
-  - **Disable lights**
-  - **Sabotage reactor, o2, laboratory, mushroom mixup, comms, airship thingy**
+  - Complete all tasks
+  - Murder all
+  - Close meeting (Host)
+  - End game (host (unstable))
+  - Disable lights
+  - Sabotage reactor, o2, laboratory, mushroom mixup, comms, airship thingy
 
 # SelfAC
 SelfAC is a feature that includes advanced detectors to identify other players using cheats. It is designed to work effectively when you are hosting a game, allowing you to take control in the lobby.
