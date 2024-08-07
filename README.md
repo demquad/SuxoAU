@@ -23,15 +23,16 @@ meanwhile you can disassemble it or whathever
 - Unlock all cosmetics
   
 **Players:**
-  - See roles and who is host
+  - See roles, host, cheat menu
   - See their tasks if completed or not
   - Kick/Ban (host)
-  - Set Names (Host)
+  - Set Names (host)
   - Shapeshift (role)
   - Goto
   - Murder Player (if you are host it justs changes the role to ghost)
     
 **Game:**
+  - Start meeting
   - Complete all tasks
   - Murder all
   - Close meeting (Host)
@@ -48,6 +49,7 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 - **Murder Detection:** Detects who is responsible for killing other players.
 - **Vent Usage Detection:** Identifies players who cant use vents.
 - **Sabotage Detection:** Detects unusual or extra sabotages.
+- **Menu Detection:** Detects other cheat menus like: AUM, S1kcoMenu
 - **ETC...**
 
   ![hi](images/vent_detection.png)
