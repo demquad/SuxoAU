@@ -45,5 +45,7 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 - **Sabotage Detection:** Detects unusual or extra sabotages.
 - **ETC...**
 
+  ![hi](images/vent_detection.png)
+
 **Note:** 
 - This feature is still in the testing phase and may not work perfectly in all situations. Im actively working to improve it.
