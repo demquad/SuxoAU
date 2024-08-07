@@ -45,12 +45,15 @@ SelfAC is a feature that includes advanced detectors to identify other players u
 
 Recommended Usage: When you plan to host a lobby to ensure a fair and controlled gameplay environment.
 
-**Key Features:**
-- **Murder Detection:** Detects who is responsible for killing other players.
-- **Vent Usage Detection:** Identifies players who cant use vents.
+**Detections:**
+- **Murder Detection:** Detects unusual killing behaviour.
+- **Vent Usage Detection:** Detects players who cannot use vents.
 - **Sabotage Detection:** Detects unusual or extra sabotages.
-- **Menu Detection:** Detects other cheat menus such as AUM and S1kcoMenu
+- **Menu Detection:** Detects other cheat menus, such as AUM and S1kcoMenu.
 - **ETC...**
+
+  **Features:**
+  - Auto ban menus
 
   ![hi](images/vent_detection.png)
 
