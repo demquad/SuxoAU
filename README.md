@@ -5,6 +5,9 @@ Among Us cheat
 
 meanwhile you can disassemble it or whathever
 
+**Credits:**
+- [IL2CppDumper](https://github.com/Perfare/Il2CppDumper)
+
 # Presence
 - SuxoAU includes rich presence for discord
 
