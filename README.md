@@ -15,10 +15,12 @@ meanwhile you can disassemble it or whathever
 
 **LocalPlayer**
 - Unlock vents
+- Always Chat
 - See players roles
 - See ghosts
 - See ghost chats
 - No kill cooldown
+- Unlock all cosmetics
   
 **Players:**
   - See roles and who is host
