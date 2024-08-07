@@ -52,10 +52,11 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 - **Menu Detection:** Detects other cheat menus, such as AUM and S1kcoMenu.
 - **ETC...**
 
-  **Features:**
+**Features:**
   - Auto ban menus
 
-  ![hi](images/vent_detection.png)
+**Vent detection:**
+![hi](images/vent_detection.png)
 
 **Note:** 
 - This feature is still in the testing phase and may not work perfectly in all situations. Im actively working to improve it.
