@@ -49,7 +49,7 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 - **Murder Detection:** Detects who is responsible for killing other players.
 - **Vent Usage Detection:** Identifies players who cant use vents.
 - **Sabotage Detection:** Detects unusual or extra sabotages.
-- **Menu Detection:** Detects other cheat menus like: AUM, S1kcoMenu
+- **Menu Detection:** Detects other cheat menus such as AUM and S1kcoMenu
 - **ETC...**
 
   ![hi](images/vent_detection.png)
