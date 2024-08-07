@@ -1,7 +1,7 @@
 # SuxoAU
 Among Us cheat
 
-**Source code soon!! (i dont like skids (specially [Sony](https://github.com/Dx2AV) (not the enterprise!)))**
+**Source code soon!! (i dont like skids (specially [Sony](https://github.com/Dx2AV)))**
 
 meanwhile you can disassemble it or whathever
 
