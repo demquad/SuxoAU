@@ -20,6 +20,7 @@ meanwhile you can disassemble it or whathever
 - See ghosts
 - See ghost chats
 - No kill cooldown
+- Wallhack
 - Unlock all cosmetics
   
 **Players:**
@@ -54,6 +55,11 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 
 **Features:**
   - Auto ban menus
+
+## SuxoAU Defender
+
+This is a local-side version of SelfAC that includes:
+ - Protection against being killed by other players due to unusual behavior, with automatic retaliation using 10 RPC calls against the attacker.
 
 **Vent detection:**
 ![hi](images/vent_detection.png)
