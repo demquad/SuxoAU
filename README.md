@@ -64,7 +64,7 @@ SuxoAUDefender_counterattack.png
 This is a local-side version of SelfAC that includes:
  - Protection against being killed by other players due to unusual behavior, with automatic counterattack using 10 RPC calls against the attacker.
 
-**SuxoAU Defender. Here what happends when a player kills u**
+**Here what happends when a player kills u**
 - Note: After the counterattack, theres a **HIGH** chance the attacker will be kicked from the game, just like in the image below:
 ![Counterattack](images/SuxoAUDefender_counterattack.png)
 
