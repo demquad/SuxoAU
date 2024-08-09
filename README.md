@@ -68,5 +68,8 @@ This is a local-side version of SelfAC that includes:
 - Note: After the counterattack, theres a **HIGH** chance the attacker will be kicked from the game, just like in the image below:
 ![Counterattack](images/SuxoAUDefender_counterattack.png)
 
+  Just imagine if the attacker kills u 5 times, **SuxoAU Defender** will counterattack with 50 RPC calls in response!
+
+
 **Note:** 
 - This feature is still in the testing phase and may not work perfectly in all situations. Im actively working to improve it.
