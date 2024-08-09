@@ -58,7 +58,7 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 
 **Vent detection:**
 ![UserDetected](images/vent_detection.png)
-SuxoAUDefender_counterattack.png
+
 ## SuxoAU Defender
 
 This is a local-side version of SelfAC that includes:
