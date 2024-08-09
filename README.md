@@ -61,14 +61,14 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 
 ## SuxoAU Defender
 
-This is a local-side version of SelfAC that includes:
- - Protection against being killed by other players due to unusual behavior, with automatic counterattack using 10 RPC calls against the attacker.
+  This is a local-side version of SelfAC that includes:
+   - Protection against being killed by other players due to unusual behavior, with automatic counterattack using 10 RPC calls against the attacker.
 
-**Here what happends when a player kills u**
-- Note: After the counterattack, theres a **HIGH** chance the attacker will be kicked from the game, just like in the image below:
-![Counterattack](images/SuxoAUDefender_counterattack.png)
+  **Here what happends when a player kills u**
+  - Note: After the counterattack, theres a **HIGH** chance the attacker will be kicked from the game, just like in the image below:
+  ![Counterattack](images/SuxoAUDefender_counterattack.png)
 
-  Just imagine if the attacker kills u 5 times, **SuxoAU Defender** will counterattack with 50 RPC calls in response!
+    Just imagine if the attacker kills u 5 times, **SuxoAU Defender** will counterattack with 50 RPC calls in response!
 
 
 **Note:** 
