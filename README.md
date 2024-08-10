@@ -24,7 +24,7 @@ meanwhile you can disassemble it or whathever
 - Unlock all cosmetics
   
 **Players:**
-  - See roles, host, cheat menu
+  - See roles, host, cheat menus, platform
   - See their tasks if completed or not
   - Kick/Ban (host)
   - Set Names (host)
