@@ -42,7 +42,7 @@ meanwhile you can disassemble it or whathever
   - Sabotage reactor, o2, laboratory, mushroom mixup, comms, airship thingy
 
 # SelfAC
-SelfAC is a feature that includes advanced detectors to identify other players using cheats. It is designed to work effectively when you are hosting a game, allowing you to take control in the lobby.
+SelfAC is a feature that includes advanced detectors to identify other players using cheats. Its designed to work effectively when you are hosting a game, allowing you to take control in the lobby.
 
 Recommended Usage: When you plan to host a lobby to ensure a fair and controlled gameplay environment.
 
