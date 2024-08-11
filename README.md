@@ -63,6 +63,7 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 
   This is a local-side version of SelfAC that includes:
    - Protection against being killed by other players due to unusual behavior, with automatic counterattack using 10 RPC calls against the attacker.
+   - Protection againt being kicked by others players by spamming murder RPC calls to you.
 
   **Here what happends when a player kills u**
   - Note: After the counterattack, theres a **HIGH** chance the attacker will be kicked from the game, just like in the image below:
