@@ -30,6 +30,8 @@ meanwhile you can disassemble it or whathever
   - Set Names (host)
   - Shapeshift (role)
   - Goto
+  - Whitelist
+  - Kick Player (local)
   - Murder Player (if you are host it justs changes the role to ghost)
     
 **Game:**
@@ -49,7 +51,7 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 **Detections:**
 - **Murder Detection:** Detects unusual killing behaviour.
 - **Vent Usage Detection:** Detects players who cannot use vents.
-- **Sabotage Detection:** Detects unusual or extra sabotages.
+- ~~**Sabotage Detection:** Detects unusual or extra sabotages.~~ (not workin rn)
 - **Menu Detection:** Detects other cheat menus, such as AUM and S1kcoMenu.
 - **ETC...**
 
@@ -62,14 +64,11 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 ## SuxoAU Defender
 
   This is a local-side version of SelfAC that includes:
-   - Protection against being killed by other players due to unusual behavior, with automatic counterattack using 10 RPC calls against the attacker.
+   - Protection against being killed by other players due to unusual behavior, with automatic kick player.
    - Protection against being kicked by others players by spamming murder RPC calls to you.
 
   **Here what happends when a player kills u**
-  - Note: After the counterattack, theres a **HIGH** chance the attacker will be kicked from the game, just like in the image below:
-  ![Counterattack](images/SuxoAUDefender_counterattack.png)
-
-    Just imagine if the attacker kills u 5 times, **SuxoAU Defender** will counterattack with 50 RPC calls in response!
+  ![PlayerKicked](images/SuxoDefender_KickingAttacker.png)
 
 
 **Note:** 
