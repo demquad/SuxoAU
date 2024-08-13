@@ -65,7 +65,7 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 
   This is a local-side version of SelfAC that includes:
    - Protection against being killed by other players due to unusual behavior, with automatic kick player.
-   - Protection against being kicked by others players by spamming murder RPC calls to you.
+   - Protection against other players kicking you by spamming murder RPC calls.
 
   **Here what happends when a player kills u**
   ![PlayerKicked](images/SuxoDefender_KickingAttacker.png)
