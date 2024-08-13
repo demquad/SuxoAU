@@ -10,6 +10,8 @@ meanwhile you can disassemble it or whathever
 
 # Presence
 - SuxoAU includes rich presence for discord
+  
+![RP](images/discord_rp.png)
 
 # Features
 
