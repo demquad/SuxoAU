@@ -53,7 +53,7 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 **Detections:**
 - **Murder Detection:** Detects unusual killing behaviour.
 - **Vent Usage Detection:** Detects players who cannot use vents.
-- ~~**Sabotage Detection:** Detects unusual or extra sabotages.~~ (not workin rn)
+- **Sabotage Detection:** Detects unusual or extra sabotages.
 - **Menu Detection:** Detects other cheat menus, such as AUM and S1kcoMenu.
 - **ETC...**
 
