@@ -33,13 +33,13 @@ meanwhile you can disassemble it or whathever
   - Shapeshift (role)
   - Goto
   - Whitelist
-  - Kick Player (local)
-  - Murder Player (if you are host it justs changes the role to ghost)
+  - ~~Kick Player (local)~~
+  - Murder Player (Host)
     
 **Game:**
   - Start meeting
   - Complete all tasks
-  - Murder all
+  - ~~Murder all~~
   - Close meeting (Host)
   - End game (host (unstable))
   - Disable lights
@@ -51,7 +51,7 @@ SelfAC is a feature that includes advanced detectors to identify other players u
 Recommended Usage: When you plan to host a lobby to ensure a fair and controlled gameplay environment.
 
 **Detections:**
-- **Murder Detection:** Detects unusual killing behaviour.
+- ~~**Murder Detection:** Detects unusual killing behaviour.~~
 - **Vent Usage Detection:** Detects players who cannot use vents.
 - **Sabotage Detection:** Detects unusual or extra sabotages.
 - **Menu Detection:** Detects other cheat menus, such as AUM and S1kcoMenu.
@@ -63,7 +63,7 @@ Recommended Usage: When you plan to host a lobby to ensure a fair and controlled
 **Vent detection:**
 ![UserDetected](images/vent_detection.png)
 
-## SuxoAU Defender
+## ~~SuxoAU Defender~~
 
   This is a local-side version of SelfAC that includes:
    - Protection against being killed by other players due to unusual behavior, with automatic kick player.
