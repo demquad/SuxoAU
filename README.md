@@ -21,7 +21,7 @@ meanwhile you can disassemble it or whathever
 - See players roles
 - See ghosts
 - See ghost chats
-- No kill cooldown
+- ~~No kill cooldown~~
 - Wallhack
 - Unlock all cosmetics
   
